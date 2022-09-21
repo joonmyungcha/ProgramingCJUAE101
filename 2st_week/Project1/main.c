@@ -1,3 +1,4 @@
+//2st_week project1
 #include <stdio.h>
 int main(void)
 {
