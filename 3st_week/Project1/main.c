@@ -7,7 +7,7 @@ int main(void)
 	char size;															//문자열 char형으로 변수 선언
 	
 	printf("Input your chest size : \n");								//가슴둘레 입력창 출력
-	scanf_s("#d", &chestsize);											//가슴둘레 입력
+	scanf_s("%d", &chestsize);											//가슴둘레 입력
 																		
 	if (chestsize <= Minchestsize)										//if, else if, else if절 사용
 	{
@@ -15,7 +15,7 @@ int main(void)
 	}
 	else if ((chestsize > Minchestsize) && (chestsize <= Maxchestsize))	
 	{
-		size = 'M';														/*가슴둘레 Minchestsize 보다 크고 Maxchestsize 보다 작은 조건 중
+		size = 'M';														/*가슴둘레 Minchestsize 보다 크고 Maxchestsize 보다 작거나 같은 조건 중
 																		두 조건 모두 참일 시 size 변수에 M 대입*/
 	}
 	else if (chestsize > Maxchestsize)
