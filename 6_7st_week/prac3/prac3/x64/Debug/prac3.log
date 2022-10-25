@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\6_7st_week\prac3\prac3\main.c(66,16): warning C4013: 'pow'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\6_7st_week\prac3\prac3\main.c(79,11): warning C4013: 'sqrt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  prac3.vcxproj -> C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\6_7st_week\prac3\x64\Debug\prac3.exe
