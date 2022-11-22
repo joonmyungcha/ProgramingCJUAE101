@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\10st_week\Project9\Project9\main.c(24,19): warning C4133: '함수': 'FILE *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\10st_week\Project9\Project9\main.c(24,24): warning C4133: '함수': 'FILE *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\10st_week\Project9\Project9\main.c(39,36): warning C4133: '함수': 'char *'과(와) 'FILE *' 사이의 형식이 호환되지 않습니다.
+C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\10st_week\Project9\Project9\main.c(41,36): warning C4133: '함수': 'char *'과(와) 'FILE *' 사이의 형식이 호환되지 않습니다.
+  Project9.vcxproj -> C:\Users\준명\Documents\GitHub\ProgramingCJUAE101\10st_week\Project9\x64\Debug\Project9.exe
